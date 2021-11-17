@@ -476,19 +476,6 @@ https://sneh-zee5tv-production.up.railway.app/?c=0-9-371
 
 #EXTINF:-1  tvg-id="N/A" group-title="JioTV" tvg-name="Bflix" ,Bflix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="JioTV" tvg-name="cineplex" ,rishtey cineplex
-https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Zee" tvg-name="TLC" ,TLC HINDI
-https://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Zee" tvg-name="Discovery" ,Discovery HINDI
-https://idvd.multitvsolution.com/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="JioTV" tvg-name="Animal_Planet_Hindi" ,Animal_Planet_Hindi 
-https://idvd.multitvsolution.com/idvo/aphdhindi.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="jiotv" tvg-name="discovery Science Hindi",Discovery Science Hindi 
-https://idvd.multitvsolution.com/idvo/discoversciencehindi.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="jioTV" tvg-name="Investigation discovery Hindi",Investigation discovery Hindi 
-https://idvd.multitvsolution.com/idvo/investigationdiscovery.m3u8
-
 
  
 #EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh VOOT",Techie Sneh

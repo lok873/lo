@@ -620,14 +620,12 @@ https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
 https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="JIO_SabbirIPTV", TLC Hindi
 http://65.2.4.240/jioo.php?c=TLC_Hindi&q=1200&e=.m3u8
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="JIO_SabbirIPTV", Discovery Science
-http://65.2.4.240/jioo.php?c=Discovery_Science&q=1200&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="JIO_SabbirIPTV", History TV18 HD Hindi
 http://65.2.4.240/jioo.php?c=History_18_Hindi&q=1200&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="JIO_SabbirIPTV", Animal Planet HD World
 http://65.2.4.240/jioo.php?c=Animal_Planet_HD&q=1200&e=.m3u8
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="JIO_SabbirIPTV", Discovery
-http://65.2.4.240/jioo.php?c=Discovery&q=1200&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="JIO_SabbirIPTV", Discovery Channel Hindi
+http://65.2.4.240/jioo.php?c=Discovery_Channel_Hindi&q=1200&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="JIO_SabbirIPTV", Sony BBC Earth HD
 http://65.2.4.240/jioo.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="JIO_SabbirIPTV", Investigation Discovery

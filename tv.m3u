@@ -49,8 +49,7 @@ https://sneh-z5api.herokuapp.com/?c=0-9-zeetalkies
 https://sneh-z5api.herokuapp.com/?c=0-9-zeeanmolcinema
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605.png",Zee Bollywood
 https://sneh-z5api.herokuapp.com/?c=0-9-zeeclassic
-#EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654.png",Zee Cinema
-https://sneh-z5api.herokuapp.com/?c=0-9-zeecinema
+
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png",&Pictures
 https://sneh-z5api.herokuapp.com/?c=0-9-pictures
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
@@ -80,8 +79,7 @@ https://sneh-z5api.herokuapp.com/?c=0-9-282
 https://sneh-z5api.herokuapp.com/?c=0-9-zeebusiness
 #EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-indiatoday/channel_web/indiatodayrajdeepsardesdai.png",India Today
 https://sneh-z5api.herokuapp.com/?c=0-9-indiatoday
-#EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-206/channel_web/1170x658withlogo_740756490.png",News24
-https://sneh-z5api.herokuapp.com/?c=0-9-206
+
 #EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_1422341819/channel_web/republictvarnabgoswami2.png",Republic TV
 https://sneh-z5api.herokuapp.com/?c=0-9-channel_1422341819
 
@@ -126,8 +124,6 @@ https://sneh-z5api.herokuapp.com/?c=0-9-176
 
 #EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/1170x658withlog_2090292605.png",News Nation
 https://sneh-z5api.herokuapp.com/?c=0-9-170
-#EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png",Zee Cinema HD
-https://sneh-z5api.herokuapp.com/?c=0-9-zeecinemahd
 #EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
 https://sneh-z5api.herokuapp.com/?c=0-9-tvpictureshd
 #EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema

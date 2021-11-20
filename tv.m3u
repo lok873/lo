@@ -41,17 +41,11 @@ https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
  https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png",Zee Cinema HD
 https://sneh-z5api.herokuapp.com/?c=0-9-zeecinemahd
-#EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
-https://sneh-z5api.herokuapp.com/?c=0-9-tvpictureshd
-#EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658_483062857.png",Zee Talkies HD
-https://sneh-z5api.herokuapp.com/?c=0-9-zeetalkies
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema
 https://sneh-z5api.herokuapp.com/?c=0-9-zeeanmolcinema
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605.png",Zee Bollywood
 https://sneh-z5api.herokuapp.com/?c=0-9-zeeclassic
 
-#EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png",&Pictures
-https://sneh-z5api.herokuapp.com/?c=0-9-pictures
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
 https://sneh-z5api.herokuapp.com/?c=0-9-zeeaction
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-privéhd/channel_web/1170x658withlogo_375086496.png",&Prive HD
@@ -119,27 +113,20 @@ https://sneh-z5api.herokuapp.com/?c=0-9-zeeanmol
 https://sneh-z5api.herokuapp.com/?c=0-9-165
 #EXTINF:-1 group-title="Sneh ZEE5 Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetv/channel_web/1170x658withlogo_200095097.png",Zee TV
 https://sneh-z5api.herokuapp.com/?c=0-9-zeetv
-#EXTINF:-1 group-title="Sneh ZEE5 Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588.png",Zee Classic
-https://sneh-z5api.herokuapp.com/?c=0-9-176
 
-#EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/1170x658withlog_2090292605.png",News Nation
-https://sneh-z5api.herokuapp.com/?c=0-9-170
+
+
 #EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
 https://sneh-z5api.herokuapp.com/?c=0-9-tvpictureshd
-#EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema
-https://sneh-z5api.herokuapp.com/?c=0-9-zeeanmolcinema
-#EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605.png",Zee Bollywood
-https://sneh-z5api.herokuapp.com/?c=0-9-zeeclassic
+
+
 #EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654.png",Zee Cinema
 https://sneh-z5api.herokuapp.com/?c=0-9-zeecinema
 #EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png",&Pictures
 https://sneh-z5api.herokuapp.com/?c=0-9-pictures
-#EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
-https://sneh-z5api.herokuapp.com/?c=0-9-zeeaction
 #EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588.png",Zee Classic
 https://sneh-z5api.herokuapp.com/?c=0-9-176
-#EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/1170x658withlog_2090292605.png",News Nation
-https://sneh-z5api.herokuapp.com/?c=0-9-170
+
 #EXTINF:-1 group-title="Sneh ZEE5 Lifestyle" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-207/channel_web/09207e24.png",E24
 https://sneh-z5api.herokuapp.com/?c=0-9-207
 #EXTINF:-1 group-title="Sneh ZEE5 Lifestyle" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_web/1170x658withlog_2096037619.png",Zee Zest HD
@@ -148,14 +135,7 @@ https://sneh-z5api.herokuapp.com/?c=0-9-348
 https://sneh-z5api.herokuapp.com/?c=0-9-271
 #EXTINF:-1 group-title="SNEH ZEE5 News",TV9 Bharatvarsh
 https://sneh-z5api.herokuapp.com/?c=0-9-251
-#EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-257/channel_web/1170x658withlog_1579827656.png",TV9 Marathi
-https://sneh-z5api.herokuapp.com/?c=0-9-257
-#EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-270/channel_web/1170x658withlogo_688844399.png",Saam TV
-https://sneh-z5api.herokuapp.com/?c=0-9-270
-#EXTINF:-1 group-title="Sneh ZEE5 Marathi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_web/1170x658withlogo_551054149.png",Zee Marathi HD
-https://sneh-z5api.herokuapp.com/?c=0-9-zeemarathi
-#EXTINF:-1 group-title="Sneh ZEE5 Marathi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeyuva/channel_web/1170x658withlogo_361849131.png",Zee Yuva
-https://sneh-z5api.herokuapp.com/?c=0-9-zeeyuva
+
 #EXTINF:-1 group-title="Sneh ZEE5 Marathi" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658_483062857.png",Zee Talkies HD
 https://sneh-z5api.herokuapp.com/?c=0-9-zeetalkies
 #EXTINF:-1 group-title="Sneh ZEE5 FREE Channels" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-134/channel_web/1170x658withlog_1510286564.png",9X Jhakaas
@@ -170,19 +150,12 @@ https://sneh-z5api.herokuapp.com/?c=0-9-zing
 https://sneh-z5api.herokuapp.com/?c=0-9-133
 #EXTINF:-1 group-title="Sneh ZEE5 Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-131/channel_web/1170x658withlog_2074233892.png",9XM
 https://sneh-z5api.herokuapp.com/?c=0-9-131
-#EXTINF:-1 group-title="Sneh ZEE5 Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-134/channel_web/1170x658withlog_1510286564.png",9X Jhakaas
-https://sneh-z5api.herokuapp.com/?c=0-9-134
 #EXTINF:-1 group-title="Sneh ZEE5 Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732.png",Boogle Bollywood
 https://sneh-z5api.herokuapp.com/?c=0-9-165
-#EXTINF:-1 group-title="Sneh ZEE5 Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-132/channel_web/1170x658withlogo_790675165.png",9X Tashan
-https://sneh-z5api.herokuapp.com/?c=0-9-132
 #EXTINF:-1 group-title="Sneh ZEE5 FREE Channels" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-132/channel_web/1170x658withlogo_790675165.png",9X Tashan
 https://sneh-z5api.herokuapp.com/?c=0-9-132
 #EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-305/channel_web/1170x658withlogo_941446093.png",Living India
 https://sneh-z5api.herokuapp.com/?c=0-9-305
-#EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-419/channel_web/1170x658_2067246738.png",ESPNcricinfo
-https://sneh-z5api.herokuapp.com/?c=0-9-419
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODgyNjk2MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZiZWF0c19kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTjNKWUtvaTFUYmU2Tmh4Zk5hUzVvTC1MMmx2bW8xT3dYZDRISHFpVm9INEpDVDJCWkpaZlFRMTZjQmMwTXo2YWZaeWdQUVJicldhcHVhNXRsR3l2UHo3SUtxeFg4Nnd2cDZIUlBrUHpjYnFSYVo3R0xpLWxmNjA4WE9YbWZWWkcxUWRPZlUteGc4WjRCNlVPa0Rrc1pRZk1WdHJwcWpRaFVIdXhnQm9aUjUyZTY3V3ZMZVJVNHRpM2hiNng1WTZYWG9fZC1va0Z0VDBEUU1VSEh1NlNLNFdfN3ZNSHRCZm15UW9kT1pXTjdIVVl0ZUEycms0akZ5NW1jd1dXUGx5VXAtekh4cXh5RXhMaHY0MmJSZjJDc1cxd2JIOElqdWlrenUzWWFzeVV2cnQxcGcyblhzT3QzcHg3ZmNWdFJqeHc3ZVc5SGxPanZtZ25DRVFsQmhYNjI4PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=OG1hOAa72zbU10Rajz5hYJ7miAc%3d
 #EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Sneh VOOT",MTV Beats HD

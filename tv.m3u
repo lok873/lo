@@ -72,8 +72,6 @@ https://sneh-z5api.herokuapp.com/?c=0-9-170
 https://sneh-z5api.herokuapp.com/?c=0-9-257
 #EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-270/channel_web/1170x658withlogo_688844399.png",Saam TV
 https://sneh-z5api.herokuapp.com/?c=0-9-270
-#EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeepunjabharyanahima/channel_web/1170x658withlog_1111951312.png",Zee Punjab Haryana Himachal Pradesh
-https://sneh-z5api.herokuapp.com/?c=0-9-zeepunjabharyanahima
 #EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-aajtak/channel_web/aajtakshwetasingh.png",Aaj Tak
 https://sneh-z5api.herokuapp.com/?c=0-9-aajtak
 #EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-282/channel_web/indiatvrajatsharma.png",India TV
@@ -119,9 +117,6 @@ https://sneh-z5api.herokuapp.com/?c=0-9-zeecafehd
 https://sneh-z5api.herokuapp.com/?c=0-9-bigganga 
 #EXTINF:-1 group-title="Sneh ZEE5 Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347.png",Zee Anmol
 https://sneh-z5api.herokuapp.com/?c=0-9-zeeanmol
-#EXTINF:-1 group-title="Sneh ZEE5 Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog_1238879598.png",Zee Bangla Cinema
-https://sneh-z5api.herokuapp.com/?c=0-9-zeebanglacinema
-
 #EXTINF:-1 group-title="Sneh ZEE5 Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732.png",Boogle Bollywood
 https://sneh-z5api.herokuapp.com/?c=0-9-165
 #EXTINF:-1 group-title="Sneh ZEE5 Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetv/channel_web/1170x658withlogo_200095097.png",Zee TV

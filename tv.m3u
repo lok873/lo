@@ -61,8 +61,7 @@ https://sneh-z5api.herokuapp.com/?c=0-9-privéhd
 https://sneh-z5api.herokuapp.com/?c=0-9-channel_2105335046
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo_358457080.png",&xplorHD
 https://sneh-z5api.herokuapp.com/?c=0-9-209
-#EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-24ghantatv/channel_web/1170x658withlogo_644392845.png",24 Ghanta
-https://sneh-z5api.herokuapp.com/?c=0-9-24ghantatv
+
 #EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeenews/channel_web/zeenewssudhirchaudhary2_1.png",Zee News
 https://sneh-z5api.herokuapp.com/?c=0-9-zeenews
 #EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-162/channel_web/rbharatarnabgoswami.png",Republic Bharat
@@ -129,8 +128,7 @@ https://sneh-z5api.herokuapp.com/?c=0-9-165
 https://sneh-z5api.herokuapp.com/?c=0-9-zeetv
 #EXTINF:-1 group-title="Sneh ZEE5 Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588.png",Zee Classic
 https://sneh-z5api.herokuapp.com/?c=0-9-176
-#EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-24ghantatv/channel_web/1170x658withlogo_644392845.png",24 Ghanta
-https://sneh-z5api.herokuapp.com/?c=0-9-24ghantatv
+
 #EXTINF:-1 group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/1170x658withlog_2090292605.png",News Nation
 https://sneh-z5api.herokuapp.com/?c=0-9-170
 #EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257.png",Zee Cinema HD

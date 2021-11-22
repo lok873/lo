@@ -224,3 +224,5 @@ http://65.2.4.240/jioo.php?c=Animal_Planet_Hindi&q=1200&e=.m3u8
 http://65.2.4.240/jioo.php?c=History_18_Hindi&q=1200&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="JIO_SabbirIPTV", Epic
 http://65.2.4.240/jioo.php?c=Epic_HD&q=1200&e=.m3u8
+#EXTINF: -1 group-title="JIO_SabbirIPTV", star sports
+http://jupiter.bdcabletv.com/StarSports_2-Enc/video.m3u8

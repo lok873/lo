@@ -42,9 +42,9 @@ https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinemahd
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema
 https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeeanmolcinema
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605.png",Zee Bollywood
-#EXTINF: -1 tvg-id="ts488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Sneh Jio Movies", Zee Action
 https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-176
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeeaction
+#EXTINF: -1 tvg-id="ts488" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Sneh Jio Movies", Zee Action
+https://snehtv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeeaction
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-privéhd/channel_web/1170x658withlogo_375086496.png",&Prive HD
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-privéhd
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png",&flix HD

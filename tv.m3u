@@ -169,6 +169,8 @@ https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Super&q=800&
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Cineplex&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="755" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Sneh VOOT",Colors Marathi HD
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Marathi_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="701" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Sneh Jio Bhojpuri", Dangal
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Dangal&q=800&e=junk.m3u8
 
 
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="JIO_SabbirIPTV", Investigation Discovery

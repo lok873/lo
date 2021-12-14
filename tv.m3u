@@ -171,8 +171,11 @@ https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Cineplex&q=8
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Marathi_HD&q=1200&e=junk.m3u8
 #EXTINF: -1 tvg-id="701" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Sneh Jio Bhojpuri", Dangal
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Dangal&q=800&e=junk.m3u8
-
-
-#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="JIO_SabbirIPTV", Investigation Discovery
-http://65.2.4.240/jioo.php?c=ID&q=1200&e=.m3u8
-
+#EXTINF: -1 tvg-id="575" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Sneh Jio Infotainment", Discovery Channel Hindi
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="821" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Sneh Jio Infotainment", Sony BBC Earth HD
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="578" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Sneh Jio Infotainment", History TV18 HD Hindi
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=History_18_Hindi&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="527" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="Sneh Jio Entertainment", Investigation Discovery
+https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=ID&q=800&e=junk.m3u8

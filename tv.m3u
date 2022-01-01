@@ -187,3 +187,11 @@ https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_BBC_Earth_HD&q
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=History_18_Hindi&q=800&e=junk.m3u8
 #EXTINF: -1 tvg-id="527" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="Sneh Jio Entertainment", Investigation Discovery
 https://snehtv.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=ID&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="ts143" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Sneh Jio Business News", CNBC Tv18 Prime HD
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CNBC_Tv18_Prime_HD&q=1200&e=junk.m3u8
+#EXTINF: -1 tvg-id="ts190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Sneh Jio Business News", CNBC Awaaz
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CNBC_Awaaz&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="ts489" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="Sneh Jio Business News", CNBC Tv 18
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=CNBC_Tv_18&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="ts657" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Sneh Jio Business News", Zee Business
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Business&q=800&e=junk.m3u8

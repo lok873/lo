@@ -4,7 +4,7 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF: -1 tvg-id="1396" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Sneh Jio Entertainment", Sony SD
 https://snehapi.in1.bitmana.io/jioapi/tsjio1200/Sony_SD.m3u8
 #EXTINF: -1 tvg-id="471" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sneh Jio Entertainment", Sony SAB HD
-https://snehapi.in1.bitmana.io/jioapi/tsjio800/Sony_SAB.m3u8
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="154" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Sneh Jio Entertainment", Sony SAB
 https://snehapi.in1.bitmana.io/jioapi/tsjio800/Sony_SAB.m3u8
 #EXTINF: -1 tvg-id="1146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SNEH SONYLIV-LIVE",SONY MARATHI
@@ -197,3 +197,5 @@ https://snehapi.in1.bitmana.io/jioapi/tsjio1200/CNBC_Tv_18.m3u8
 https://snehapi.in1.bitmana.io/jioapi/tsjio1200/ET_Now_Swadesh.m3u8
 #EXTINF:0 tvg-id="561" group-title="SnehJio Lifestyle Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png",Food Food
 https://snehapi.in1.bitmana.io/jioapi/tsjio1200/Food_Food.m3u8
+#EXTINF:0 tvg-id="566" group-title="SnehJio Infotainment Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
+https://snehapi.in1.bitmana.io/jioapi/tsjio1200/Animal_Planet_Hindi.m3u8

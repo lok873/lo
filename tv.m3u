@@ -2,11 +2,11 @@
 #EXTINF: -1 tvg-id="291" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SNEH SONYLIV-LIVE",SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 #EXTINF: -1 tvg-id="1396" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Sneh Jio Entertainment", Sony SD
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=Sony_SD&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=1386&q=1200
 #EXTINF: -1 tvg-id="471" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Sneh Jio Entertainment", Sony SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF: -1 tvg-id="154" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Sneh Jio Entertainment", Sony SAB
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=Sony_SAB&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=154&q=1200
 #EXTINF: -1 tvg-id="1146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SNEH SONYLIV-LIVE",SONY MARATHI
 https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 #EXTINF:-1 tvg-id="474" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SNEH SONYLIV-LIVE",SONY PAL
@@ -54,7 +54,7 @@ https://nayeem-parvez.gq/zeex.php?c=0-9-privéhd
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/channel_2105335046/channel_web/1170x658_379547401.png",&flix HD
 https://nayeem-parvez.gq/zeex.php?c=0-9-channel_2105335046
 #EXTINF:-1 group-title="Sneh ZEE5 Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/209/channel_web/1170x658withlogo_358457080.png",&xplorHD
-l
+https://nayeem-parvez.gq/zeex.php?c=0-9-209
 #EXTINF:-1 tvg-id="658" group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/zeenews/channel_web/zeenewssudhirchaudhary2_1.png",Zee News
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeenews
 #EXTINF:-1 tvg-id="892" group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/162/channel_web/rbharatarnabgoswami.png",Republic Bharat
@@ -112,9 +112,9 @@ https://nayeem-parvez.gq/zeex.php?c=0-9-zeetv
 #EXTINF:-1 tvg-id="185" group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/tvpictureshd/channel_web/1170x658withlog_1476130363.png",&Pictures HD
 https://nayeem-parvez.gq/zeex.php?c=0-9-tvpictureshd
 EXTINF: -1 tvg-id="1450" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Sneh Jio Movies", Rishtey Cineplex
-https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/Rishtey_Cineplex
+http://ambaniuncle.in1.bitmana.io//live.php?id=1450&q=1200
 #EXTINF: -1 tvg-id="1266" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="Sneh Jio Movies", Bflix Movies
-https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/Bflix_Movies
+http://ambaniuncle.in1.bitmana.io//live.php?id=1266&q=1200
 #EXTINF:-1 tvg-id="484" group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/zeecinema/channel_web/1170x658withlogo_807278654.png",Zee Cinema
 https://nayeem-parvez.gq/zeex.php?c=0-9-zeecinema
 #EXTINF:-1 group-title="Sneh ZEE5 Hindi Movies" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/pictures/channel_web/1170x658withlog_1269578414.png",&Pictures
@@ -150,37 +150,36 @@ https://nayeem-parvez.gq/zeex.php?c=0-9-132
 #EXTINF:-1 tvg-id="831" group-title="Sneh ZEE5 News" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/305/channel_web/1170x658withlogo_941446093.png",Living India
 https://nayeem-parvez.gq/zeex.php?c=0-9-305
 #EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Sneh VOOT",MTV Beats HD
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=MTV_Beats_HD&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=753&q=1200
 #EXTINF:0 tvg-id="584" group-title="SnehJio Music Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=Mastiii&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=584&q=1200
 #EXTINF:-1 tvg-id="1145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Sneh VOOT",MTV HD Plus
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=MTV_HD_Plus&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=1145&q=1200
 #EXTINF:0 tvg-id="482" group-title="SnehJio Movies Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=Colors_Cineplex&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=482&q=1200
 #EXTINF:0 tvg-id="1477" group-title="SnehJio Movies Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=1477&q=1200
 #EXTINF:0 tvg-id="1763" group-title="SnehJio Movies Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=Colors_Cineplex_Bollywood&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=1763&q=1200
 #EXTINF: -1 tvg-id="701" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Sneh Jio Bhojpuri", Dangal
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=Dangal&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=701&q=1200
 #EXTINF: -1 tvg-id="575" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Sneh Jio Infotainment", Discovery Channel Hindi
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=Discovery_Channel_Hindi&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=575&q=1200
 #EXTINF: -1 tvg-id="821" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Sneh Jio Infotainment", Sony BBC Earth HD
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=821&q=1200
 #EXTINF: -1 tvg-id="578" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Sneh Jio Infotainment", History TV18 HD Hindi
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=History_18_Hindi&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=578&q=1200
 #EXTINF: -1 tvg-id="527" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="Sneh Jio Entertainment", Investigation Discovery
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=ID&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=527&q=1200
 #EXTINF: -1 tvg-id="ts143" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Sneh Jio Business News", CNBC Tv18 Prime HD
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=CNBC_Tv18_Prime_HD&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=143&q=1200
 #EXTINF: -1 tvg-id="ts190" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Sneh Jio Business News", CNBC Awaaz
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=CNBC_Awaaz&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=190&q=1200
 #EXTINF: -1 tvg-id="ts489" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="Sneh Jio Business News", CNBC Tv 18
-https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/CNBC_Tv_18
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=CNBC_Tv_18&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=489&q=1200
 #EXTINF: -1 tvg-id="ts657" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Sneh Jio Business News", Zee Business
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=ET_Now_Swadesh&q=1200&e=.m3u8
+https://nayeem-parvez.gq/zeex.php?c=0-9-zeebusiness
 #EXTINF:0 tvg-id="561" group-title="SnehJio Lifestyle Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png",Food Food
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=Food_Food&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=561&q=1200
 #EXTINF:0 tvg-id="566" group-title="SnehJio Infotainment Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
-http://myjio1.in1.bitmana.io/JioTV/streamhub.php?c=Animal_Planet_Hindi&q=1200&e=.m3u8
+http://ambaniuncle.in1.bitmana.io//live.php?id=566&q=1200
